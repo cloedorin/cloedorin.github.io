@@ -190,7 +190,7 @@
 }
     
 .banner1 {
-    background-position: -800px center;
+    background-position: -500px center;
 }
 
 .ayuda {
@@ -220,50 +220,5 @@
 
 
 
-    @media only screen and (max-width: 480px) {
 
-        .organizacion {
-        
-            height: 600px 
-    
-        
-        }
-        
-    .logo {
-        left: 20px;
-    }
-    
-    .boton {
-        margin-left: 300px;
-        
-    }
-        
-    .banner1 {
-        background-position: -600px center;
-    }
-    
-    .ayuda {
-        height: 200px;
-    }
-    
-    .comenzar {
-        margin-left: 80px;
-    }
-    
-    .cuestionario {
-        height: 800px; 
-         }
-    
-    .boton2 {
-        margin-left: 150px;
-    }
-    
-    .iconos {
-        margin-left: 200px;
-    }
-    
-    .banner2 {
-        background-position: -600px center;
-    }
-        }
     
