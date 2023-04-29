@@ -198,7 +198,7 @@
 }
 
 .comenzar {
-    margin-left: 60px;
+    margin-left: 50px;
 }
 
 .cuestionario {
@@ -219,6 +219,10 @@
 
 .navbar-toggler {
     margin-left: 250px !important;
+}
+
+.medio {
+    margin-left: 20px;
 }
     }
 
