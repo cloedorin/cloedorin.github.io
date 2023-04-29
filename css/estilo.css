@@ -218,7 +218,9 @@
 }
     }
 
-    @media (max-width:  479px) {
+
+
+    @media only screen and (max-width: 480px) {
 
         .organizacion {
         
@@ -264,3 +266,4 @@
         background-position: -600px center;
     }
         }
+    
