@@ -185,12 +185,12 @@
 }
 
 .boton {
-    margin-left: 100px;
+    margin-left: 150px;
     
 }
     
 .banner1 {
-    background-position: -1000px center;
+    background-position: -800px center;
 }
 
 .ayuda {
@@ -217,7 +217,9 @@
     background-position: -600px center;
 }
 
-
+.navbar-toggler {
+    margin-left: 10px;
+}
     }
 
 
